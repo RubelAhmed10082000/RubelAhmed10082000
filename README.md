@@ -1,6 +1,8 @@
 ## Hi there 👋 My Name is Rubel
 
-
+<p align="left">
+  <img src="./1655280950536.jfif" alt="Your description" width="300"/>
+</p>
 
 MSc Computer Science (conversion) student at Queen Mary Unviversity of London, aspiring Data/Software Engineer.
 
