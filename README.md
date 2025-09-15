@@ -26,7 +26,7 @@ Data scraping, Google Big Query, DBT, Predictive modelling
 
 🛠️ Skills
 
-Languages: Python, SQL (Postgres)
+Languages: Python, SQL (Postgres), Pandas
 
 Data & Cloud: GCP (Cloud Run, Scheduler, Storage), Docker, Git
 
